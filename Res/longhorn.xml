@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPalette xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ColorTable>
+    <ControlARGB>-12303292</ControlARGB>
+    <ControlLightARGB>-12303292</ControlLightARGB>
+    <ControlDarkARGB>-14540254</ControlDarkARGB>
+    <ControlTextARGB>-3355444</ControlTextARGB>
+    <CaptionARGB>-16053493</CaptionARGB>
+    <CaptionTextARGB>-3355444</CaptionTextARGB>
+    <BorderARGB>-13421773</BorderARGB>
+    <SelectedBorderARGB>-10066330</SelectedBorderARGB>
+    <ControlBorderARGB>-13421773</ControlBorderARGB>
+    <HighlightARGB>-11513776</HighlightARGB>
+    <HighlightTextARGB>-1</HighlightTextARGB>
+    <HighlightLightARGB>-11513776</HighlightLightARGB>
+    <HighlightDarkARGB>-12303292</HighlightDarkARGB>
+    <PressedDarkARGB>-14540254</PressedDarkARGB>
+    <PressedLightARGB>-8684677</PressedLightARGB>
+    <CheckedLightARGB>-12961222</CheckedLightARGB>
+    <CheckedDarkARGB>-11513776</CheckedDarkARGB>
+    <MenuARGB>-13421773</MenuARGB>
+    <MenuTextARGB>-3355444</MenuTextARGB>
+    <WindowARGB>-13421773</WindowARGB>
+    <WindowTextARGB>-3355444</WindowTextARGB>
+  </ColorTable>
+  <Scheme>Custom</Scheme>
+  <lIII11II1>All</lIII11II1>
+</NPalette>
