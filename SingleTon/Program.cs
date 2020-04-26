@@ -5,10 +5,6 @@ using System.Collections.Generic;
 
 namespace ConsoleApp15
 {
-
-
-
-
     class Program
     {
         private static int Check_Prime(int number)

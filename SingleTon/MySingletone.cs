@@ -4,6 +4,9 @@ using System.Text;
 
 namespace ConsoleApp15
 {
+    /// <summary>
+    /// Foobar class
+    /// </summary>
     public class Foobar
     {
         private int i;
