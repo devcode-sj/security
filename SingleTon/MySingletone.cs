@@ -9,7 +9,10 @@ namespace ConsoleApp15
     /// </summary>
     public class Foobar
     {
+		
+		
         private int i;
+		
         public int I
         {
             get { return i; }
